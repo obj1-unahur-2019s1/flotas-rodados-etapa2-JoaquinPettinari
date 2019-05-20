@@ -1,5 +1,6 @@
 import rodados.*
 import dependencia.*
+import Pedidos.*
 
 describe "Flota de rodados" {
 	const cachito = new Corsa(color = "rojo")
